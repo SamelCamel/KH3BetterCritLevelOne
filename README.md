@@ -6,9 +6,47 @@ A .bin file for KH3 that you can import into a save to make your critical level 
 - Heartless Buster
 - Nobody Buster
 - Hidden Potential
+- Combo Boost
+- Air Combo Boost
+- Reprisal Boost
 
-**Changes to Situation Commands**
+**Abilities to change Situation Command frequency**
 - Situation Boost
+- Cure Converter
+- Grand Magic/Formchange Extender
+- More Grand Magic
+
+**Complete negation of all Status Effects**
+
+**Added Abilities to edit MP Usage**
+- MP Thrift
+- 2x Flanniversary Badges (With MP Thrift) at the start of the game
+- MP Haste, MP Hastera, and MP Hastega
+- Block Replenisher
+- Damage Syphon
+- Fire/Blizzard/Thunder/Water/Aero/Dark Syphon
+- Extra Cast
+- Endless Magic
+
+**All Movement/Flowmotion Abilities available at the start of the game**
+
+**All Combo Modifier Abilities available at the start of the game**
+
+**Misc Abilities**
+- Focus Syphon
+- Combo/Air Combo Plus
+- Master Treasure Magnet
+- Munny Converter
+- HP/MP Walker
+- Wizard's Ruse
+- Defender
+- Permanent Cooking Bonuses (Can disable in Abilities if needed)
+   - Cuisine Extender
+   - Hearty Meal
+   - Overtime
+   - Prize Proliferator
+   - Berserk Charge 
+- Share Prizes
 
 
 # Requirements
@@ -25,4 +63,7 @@ This page will walk you through the process of editing your save as best as poss
 3. On the hex editor window that pops up, select the save file you want to edit
    - Note: \_\_data\_\_slot\_\_0 is the autosave, which should not be edited if possible, and the rest of the numbered slots correspond to each of their respective numbered saves.
 4. Click the rightmost icon in the toolbar on the right (Import File) that looks like a curved arrow
-5. Select 
+5. Select `KH3 Better Critical Level One by SamelCamel.bin`
+6. Prepare for another long loading screen, feel free to get some snacks while you wait
+7. Once that is done, transfer the newly edited save data back to your PS4
+8. Load up KH3 and check if the file was transferred correctly!

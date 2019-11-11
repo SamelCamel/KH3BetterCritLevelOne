@@ -1,24 +1,14 @@
 # Kingdom Hearts 3: A Better Critical Level One Playthrough
 A .bin file for KH3 that you can import into a save to make your critical level one experience better
 
-<br/>
-<br/>
-
 # Features
 **Many new abilities added to base Sora to prevent chip damage, even some that aren't available through normal gameplay:**
 - Heartless Buster
 - Nobody Buster
 - Hidden Potential
 
-<br/>
-<br/>
-<br/>
-
 **Changes to Situation Commands**
 - Situation Boost
-
-<br/>
-<br/>
 
 
 # Requirements

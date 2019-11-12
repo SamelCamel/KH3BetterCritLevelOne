@@ -7,6 +7,7 @@ A .bin file for KH3 that you can import into a save to make your critical level 
 - You may equip Royal Ribbons as soon as you wish
 - The save is balanced with NO FOOD throughout the entire playthrough
 - The only abilities you should change are Flowmotion abilities and Berserk Charge
+- Feel free to change your teammate's Abilities
 - I suggest refraining from using Ultima Weapon unless you get walled by a specific fight
 
 # Features

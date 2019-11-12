@@ -6,7 +6,7 @@ A .bin file for KH3 that you can import into a save to make your critical level 
 - Start the game with Crystal Regalia, then equip your Flanniversary Badges as you gain more Accessory Slots
 - You may equip Royal Ribbons as soon as you wish
 - The save is balanced with NO FOOD throughout the entire playthrough
-- The only abilities you should change are Flowmotion abilities and Berserk Charge (if you want)
+- The only abilities you should change are Flowmotion abilities and Berserk Charge (Matter of preference)
 - Feel free to change your teammate's Abilities
 - I suggest refraining from using Ultima Weapon unless you get walled by a specific fight
 

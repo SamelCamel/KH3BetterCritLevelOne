@@ -1,6 +1,14 @@
 # Kingdom Hearts 3: A Better Critical Level One Playthrough
 A .bin file for KH3 that you can import into a save to make your critical level one experience better
 
+# Recommended Playthrough (IMPORTANT)
+- Wait to upgrade your Keyblades until the start of Monstropolis, at that point feel free to upgrade them all to max
+- Start the game with Crystal Regalia, then equip your Flanniversary Badges as you gain more Accessory Slots
+- You may equip Royal Ribbons as soon as you wish
+- The save is balanced with NO FOOD throughout the entire playthrough
+- The only abilities you should change are Flowmotion abilities and Berserk Charge
+- I suggest refraining from using Ultima Weapon unless you get walled by a specific fight
+
 # Features
 **Many new abilities added to base Sora to prevent chip damage, even some that aren't available through normal gameplay:**
 - Heartless Buster
@@ -48,6 +56,11 @@ A .bin file for KH3 that you can import into a save to make your critical level 
    - Berserk Charge 
 - Share Prizes
 
+**Max Synth items to level up keyblades immediately**
+
+**3 Royal Ribbons to equip onto Sora**
+
+**1 Crystal Regalia and 2 Flanniversary Badges at the start of the game**
 
 # Requirements
 - Kingdom Hearts 3 for PS4
@@ -68,3 +81,4 @@ This page will walk you through the process of editing your save as best as poss
 7. Prepare for another long loading screen, feel free to get some snacks while you wait
 8. Once that is done, transfer the newly edited save data back to your PS4
 9. Load up KH3 and check if the file was transferred correctly!
+

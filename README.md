@@ -68,6 +68,8 @@ A .bin file for KH3 that you can import into a save to make your critical level 
 - A computer with stable internet connection
 
 # NOTE
+Replacing a save slot with this file will delete that save slot. I am not responsbible for lost data.
+
 This page will walk you through the process of editing your save as best as possible. This guide assumes that you already know how to use Save Wizard at a basic, fundamental level. There are easy guides to follow if you don't know how to do something that I mention. It also assumes you know how to copy your save data to a USB drive from your PS4 (Also very google-able). If you have any questions, DM @SamelCamel_m8 on Twitter and I will try to answer your questions as best as possible!
 
 # Instructions:

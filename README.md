@@ -2,7 +2,7 @@
 A .bin file for KH3 that you can import into a save to make your critical level one experience better
 
 # Recommended Playthrough (IMPORTANT)
-- Wait to upgrade your Keyblades until the start of Monstropolis, at that point feel free to upgrade them all to max
+- Wait to upgrade your Keyblades until the start of the second world group, at that point feel free to upgrade them all to max
 - Start the game with Crystal Regalia, then equip your Flanniversary Badges as you gain more Accessory Slots
 - You may equip Royal Ribbons as soon as you wish
 - The save is balanced with NO FOOD throughout the entire playthrough

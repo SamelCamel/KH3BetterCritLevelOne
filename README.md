@@ -2,6 +2,9 @@
 A .bin file for KH3 that you can import into a save to make your critical level one experience better
 
 # Recommended Playthrough (IMPORTANT)
+
+> Olympus > Twilight Town > Corona > Toy Box > Monstropolis > Arendelle > Carribean > San Fransokyo > Keyblade Graveyard
+
 - Wait to upgrade your Keyblades until the start of the second world group (Monstropolis/Arendelle), at that point feel free to upgrade them all to max
 - Start the game with Crystal Regalia. Then once you gain more accessory slots, wait until AFTER the end of that world to equip your Flanniversary Badges
 - You may equip Royal Ribbons as soon as you wish

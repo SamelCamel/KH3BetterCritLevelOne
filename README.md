@@ -3,10 +3,10 @@ A .bin file for KH3 that you can import into a save to make your critical level 
 
 # Recommended Playthrough (IMPORTANT)
 
-> Olympus > Twilight Town > Corona > Toy Box > Monstropolis > Arendelle > Carribean > San Fransokyo > Keyblade Graveyard
+> Olympus > TwilightTown > Corona > ToyBox > Monstropolis > Arendelle > Carribean > SanFran > Keyblade Graveyard
 
 - Wait to upgrade your Keyblades until the start of the second world group (Monstropolis/Arendelle), at that point feel free to upgrade them all to max
-- Start the game with Crystal Regalia. Then once you gain more accessory slots, wait until AFTER the end of that world to equip your Flanniversary Badges
+- Start the game with Crystal Regalia. Then once you gain an accessory slot, wait until AFTER the end of that world group to equip your Flanniversary Badges (Toy Box/Corona and Carribean/SanFran are world groups, for example)
 - You may equip Royal Ribbons as soon as you wish
 - The save is balanced with NO FOOD throughout the entire playthrough
 - The only abilities you should change are Flowmotion abilities and Berserk Charge (Matter of preference)

@@ -2,11 +2,9 @@
 A .bin file for KH3 that you can import into a save to make your critical level one experience better
 
 # Recommended Playthrough (IMPORTANT)
-
-> Olympus > TwilightTown > Corona > ToyBox > Monstropolis > Arendelle > Carribean > SanFran > Keyblade Graveyard
-
 - Wait to upgrade your Keyblades until the start of the second world group (Monstropolis/Arendelle), at that point feel free to upgrade them all to max
-- Start the game with Crystal Regalia. Then once you gain an accessory slot, wait until AFTER the end of that world group to equip your Flanniversary Badges (Toy Box/Corona and Carribean/SanFran are world groups, for example)
+- Start the game with Soldier Earring (This can be replaced by any other accessory at any point throughout the game).
+- Once you gain an accessory slot, wait until AFTER the end of that world group to equip your Flanniversary Badges (for example, you can only equip the first Flan Badge AFTER you beat both Toy Box and Corona)
 - You may equip Royal Ribbons as soon as you wish
 - The save is balanced with NO FOOD throughout the entire playthrough
 - The only abilities you can change are the Action and Mobility ability sections and Berserk Charge (Matter of preference)
@@ -64,7 +62,7 @@ A .bin file for KH3 that you can import into a save to make your critical level 
 
 **3 Royal Ribbons to equip onto Sora**
 
-**1 Crystal Regalia and 2 Flanniversary Badges at the start of the game**
+**2 Flanniversary Badges at the start of the game**
 
 # Requirements
 - Kingdom Hearts 3 for PS4

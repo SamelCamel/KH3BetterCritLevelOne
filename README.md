@@ -1,7 +1,9 @@
 # Kingdom Hearts 3: A Better Critical Level One Playthrough
 A .bin file for KH3 that you can import into a save to make your critical level one experience better
 
-# Recommended Playthrough (IMPORTANT)
+# Recommended Playthrough (IMPORTANT, PLEASE READ BEFORE STARTING)
+- You may choose whatever options you wish in the Tutorial
+- Equip Double Team after finishing Olympus
 - Wait to upgrade your Keyblades until the start of the second world group (Monstropolis/Arendelle), at that point feel free to upgrade them all to max
 - Start the game with Soldier Earring (This can be replaced by any other accessory at any point throughout the game).
 - Once you gain an accessory slot, wait until AFTER the end of that world group to equip your Flanniversary Badges (for example, you can only equip the first Flan Badge AFTER you beat both Toy Box and Corona)
@@ -13,6 +15,7 @@ A .bin file for KH3 that you can import into a save to make your critical level 
 
 # Features
 **Many new abilities added to base Sora to prevent chip damage, even some that aren't available through normal gameplay:**
+- Double Team
 - Heartless Buster
 - Nobody Buster
 - Hidden Potential

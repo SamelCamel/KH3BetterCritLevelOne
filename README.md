@@ -83,7 +83,7 @@ This page will walk you through the process of editing your save as best as poss
 3. On the hex editor window that pops up, select the save file you want to edit
    - Note: \_\_data\_\_slot\_\_0 is the autosave, which should not be edited if possible, and the rest of the numbered slots correspond to each of their respective numbered saves.
 4. Click the rightmost icon in the toolbar on the right (Import File) that looks like a curved arrow
-5. Select `KH3 Better Critical Level One by SamelCamel.bin`
+5. Select `Kingdom Hearts 3 A Better Critical Level One Playthrough.bin`
 6. Select Apply
 7. Prepare for another long loading screen, feel free to get some snacks while you wait
 8. Once that is done, transfer the newly edited save data back to your PS4
